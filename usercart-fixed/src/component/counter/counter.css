@@ -1,0 +1,22 @@
+.add-discard {
+    background-color: #F0F0F0;
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 126px;
+    height: 44px;
+    border-radius: 62px;
+  }
+.numb {
+  margin-top: 10%;
+}
+.Plus-Minus {
+  font-size: 25px;
+  margin-top: 13%;
+}
+
+.add-discard:hover {
+  cursor: pointer;
+}
+  
